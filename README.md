@@ -5,23 +5,21 @@
   <img src="https://komarev.com/ghpvc/?username=ReynardL&label=Profile%20views&color=6366f1&style=flat" alt="ReynardL" />
 </p>
 
-- 🔭 I'm currently working on **research** — applying self-supervised visual transformers for medical image classification tasks
+- 🔭 I'm currently working on **research** | Applying self-supervised visual transformers for medical image classification tasks
 
-- 🔒 Recently shipped **[Abi](https://github.com/ReynardL)** — a privacy-first local financial AI agent with MCP tooling & zero data leakage
+- 🔒 Recently shipped **[Abi](https://github.com/ReynardL)** | A privacy-first local financial AI agent with MCP tooling & zero data leakage
 
-- 🚀 I also run **[Studypulse](https://studypulse.xyz)** — a serverless AI study platform on AWS Lambda with flashcard generation
+- 🚀 I also run **[Studypulse](https://studypulse.xyz)** | A serverless AI study platform on AWS Lambda with flashcard generation
 
-- 🧠 Third-year **Honours Bachelor of AI** student at Durham College — **GPA 3.96**
+- 🧠 Third-year **Honours Bachelor of AI** student at Durham College | **GPA 3.94**
 
-- 👁️ Most recent project: **[Live Emotion Classifier](https://github.com/ReynardL/EmotionClassifier)** — custom 5.6M-param CNN with Spatial Attention on FER2013+
+- 👁️ Most recent project: **[Live Emotion Classifier](https://github.com/ReynardL/EmotionClassifier)** | custom 5.6M-param CNN with Spatial Attention on FER2013+
 
 - 📊 I also explore ML on real-world datasets: **[Bankruptcy Predictor](https://github.com/ReynardL/Bankruptcy-predictor)** & **[Suicide Dataset EDA](https://github.com/ReynardL/Suicide-Dataset-EDA)**
 
 - 💡 Passionate about **Privacy-First AI**, **Agentic Systems**, **Computer Vision**, and **NLP**
 
 - 📫 Reach me at **gregoriusreynard.lin@dcmail.ca**
-
-- ⚡ Fun fact: I believe the best AI is the kind users forget is there — because it just works, and never betrays their trust
 
 ---
 
