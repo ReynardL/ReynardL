@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=ReynardL&label=Profile%20views&color=6366f1&style=flat" alt="ReynardL" />
 </p>
 
-- 🔭 I'm currently working on **research** | Applying self-supervised visual transformers for medical image classification tasks
+- 🔭 I'm currently working on **[Research](https://github.com/Sxres/SkinCancerImageClassificationResearch)** | Applying self-supervised visual transformers for medical image classification tasks
 
 - 🔒 Recently shipped **[Abi](https://github.com/ReynardL)** | A privacy-first local financial AI agent with MCP tooling & zero data leakage
 
-- 🚀 I also run **[Studypulse](https://studypulse.xyz)** | A serverless AI study platform on AWS Lambda with flashcard generation
+- 🚀 I ran **Studypulse** | A serverless AI study platform on AWS Lambda with flashcard generation
 
 - 🧠 Third-year **Honours Bachelor of AI** student at Durham College | **GPA 3.94**
 
