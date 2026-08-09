@@ -1,101 +1,101 @@
-<h1 align="center">Hi, I'm Reynard 👋</h1>
-<h3 align="center">AI & Machine Learning Engineer · Privacy-First Builder · Full-Stack Developer</h3>
+<h1 align="center">Gregorius Reynard Lin</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ReynardL&label=Profile%20views&color=6366f1&style=flat" alt="ReynardL" />
+<p align="center">
+  <strong>AI/ML Engineer</strong> &nbsp;·&nbsp; Post-training and agentic systems &nbsp;·&nbsp; Greater Toronto Area
 </p>
 
-- 🔭 I'm currently working on **[Research](https://github.com/Sxres/SkinCancerImageClassificationResearch)** | Applying self-supervised visual transformers for medical image classification tasks
-
-- 🔒 Recently shipped **[Abi](https://github.com/ReynardL)** | A privacy-first local financial AI agent with MCP tooling & zero data leakage
-
-- 🚀 I ran **Studypulse** | A serverless AI study platform on AWS Lambda with flashcard generation
-
-- 🧠 Third-year **Honours Bachelor of AI** student at Durham College | **GPA 3.94**
-
-- 👁️ Most recent project: **[Live Emotion Classifier](https://github.com/ReynardL/EmotionClassifier)** | custom 5.6M-param CNN with Spatial Attention on FER2013+
-
-- 📊 I also explore ML on real-world datasets: **[Bankruptcy Predictor](https://github.com/ReynardL/Bankruptcy-predictor)** & **[Suicide Dataset EDA](https://github.com/ReynardL/Suicide-Dataset-EDA)**
-
-- 💡 Passionate about **Privacy-First AI**, **Agentic Systems**, **Computer Vision**, and **NLP**
-
-- 📫 Reach me at **gregoriusreynard.lin@dcmail.ca**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="[https://linkedin.com/in/gregoriusreynardlin](https://www.linkedin.com/in/gregorius-reynard-lin-a0665a261/)" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<p align="center">
+  <a href="https://tapverdict.com">
+    <img src="https://img.shields.io/badge/Verdict-live_product-4F46E5?style=flat-square" alt="Verdict" />
+  </a>
+  <a href="https://www.linkedin.com/in/gregorius-reynard-lin-a0665a261/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:gregoriusreynard.lin@dcmail.ca">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+I build applied AI that ships to real users, and I care about being able to prove it works. That second half is where most of my time goes: eval harnesses, attribution analysis, and figuring out what a result actually shows.
 
-  <!-- Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
+Final-year **Honours Bachelor of Artificial Intelligence** at Durham College (GPA 4.92/5.0), graduating June 2027.
 
-  <!-- ML / AI -->
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://keras.io" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
+## Currently
 
-  <!-- Backend / APIs -->
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
+**Co-Founder and Founding Engineer** at **[Verdict](https://tapverdict.com)**
+*A no-login PWA that tells you which credit card in your wallet to use, and cites the line in the terms that proves it.*
 
-  <!-- Cloud / Infra -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
+- Sole engineer. Live and public, around 100 users.
+- The LLM pipeline is gated by an eval harness with CI-enforced accuracy thresholds, so no model, prompt, or schema change ships unmeasured.
+- On-device wallet with no per-user datastore, which keeps marginal cost per user near zero.
 
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-  </a>
+**AI Engineering Co-op** at **Intransigense Technologies** (Dealigense)
+*Generative-AI video for an AI marketing CRM.*
 
-  <!-- Databases -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
+- Project lead for a 3-person team: sprint planning, design, and direct line to the founder.
+- Built a harness that chains generation, automated editing, and compositing to assemble captioned short-form video from a text prompt.
 
+## Selected work
+
+| Project | | |
+| :--- | :--- | :--- |
+| **[Web-Agent Distillation](https://github.com/ReynardL/small-4b-web-agent-distillation)** | 4B WebArena agent on one 8GB GPU | SFT tripled success to **24.4%**, then teacher reasoning made it worse. The repo is the diagnosis. |
+| **[Emergent Reasoning](https://github.com/ReynardL/EmergentReasoning)** | DAPO reinforcement learning on Qwen2.5-1.5B | GSM8K **50.4% to 68.0%**, but attribution showed the gain was parse reliability, not reasoning. |
+| **[Abi](https://github.com/ReynardL/Abi-Financial-Assistant)** | Local-first financial agent, 13-tool MCP layer | Merchant names hashed before any LLM call. **Zero raw financial data leaves the machine.** |
+| **[Bankruptcy Predictor](https://github.com/ReynardL/Bankruptcy-predictor)** | XGBoost on 30 financial ratios | **0.94 ROC AUC**, with SHAP attributions so a loan officer can read why. |
+| **[Live Emotion Classifier](https://github.com/ReynardL/EmotionClassifier)** | 5.6M-param CNN with spatial attention | 5 emotions in real time from webcam. |
+
+## Toolkit
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+**Machine learning**
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/TRL-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="TRL" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+</p>
+
+**LLM tooling**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/RAG-4F46E5?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Evals-4F46E5?style=flat-square" alt="Evals" />
+</p>
+
+**Backend and infrastructure**
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
 </p>
